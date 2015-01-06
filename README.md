@@ -14,20 +14,18 @@
 * [Checkstyle](ohjeet/Checkstyle.md)
 
 **Ohjaajat:**
-* Tero Huomo (Arcane)
-* Joel Järvinen (puny)
+* Essi Salmenkivi (iorena)
+* Antti Haapaniemi 
+* Hanna Kopperi
 
 Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 **Kurssin IRC-kanava**: 
-\#joululabra @ IRCnet
+\#javalabra2015 @ IRCnet
 
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta mieluiten ohjauksissa tai IRCissä tai lähetä sähköpostia.
 
 ### Uutisia
-
-#### Demotilaisuus
-Demotilaisuus pidetään torstaina 8.1.2015 alkaen klo 12:15 luokassa **B221**. Demotilaisuus on kaikille pakollinen ellei ole hyvää syytä jonka takia ei pääse paikalle. Tällöin tulee olla yhteydessä ohjaajiin ja käydä demoamassa oma projekti viimeisen viikon aikana pajassa. 
 
 ### Palaute työstäsi
 
@@ -36,6 +34,7 @@ Demotilaisuus pidetään torstaina 8.1.2015 alkaen klo 12:15 luokassa **B221**. 
 
 ### Aikataulu
 
+!!!PÄIVITTÄMÄTTÄ!!!
 Pajaa tarjolla alla ilmoitettuina päivinä kello 12-14.
 Pajat pidetään luokassa **B221**, ellei toisin ilmoiteta.
 
@@ -47,5 +46,3 @@ Pajat pidetään luokassa **B221**, ellei toisin ilmoiteta.
 | 2   | **Paja**| - |  DL5 **Paja**|  Katselmointi 2. **Demotilaisuus & Paja**| DL6 + palautus. **Paja**|
 
 
-**HUOM**
-Pajaohjausta ei järjestetä 24.12. - 28.12., 31.12., 1.1.2015, 6.1.2015.
