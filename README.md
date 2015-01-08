@@ -37,11 +37,12 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ### Aikataulu
 
-* Pajaa tarjolla alla ilmoitettuina aikoina.
-* Pajat pidetään luokassa **B221**, ellei toisin ilmoiteta.
+Pajaa tarjolla alla ilmoitettuina aikoina.
+Pajat pidetään luokassa **B221**, ellei toisin ilmoiteta.
 
-* | klo | ma  | ti  | ke  | to  | pe  | 
-* | 12-14 | --- | PAJA | --- | --- | DL | 
-* | 14-16  |  -  |  -  | PAJA | PAJA | --- |  
+| klo   | ma  | ti    | ke   | to       | pe    | 
+| ---   | --- | ---   | ---  | ---      | ---   | 
+| 12-14 | -   | Paja  | -    | -        | DL (12:59)    |  
+| 14-16 | -   | -     | Paja | Paja     | -     |  
 
 
