@@ -1,15 +1,17 @@
 % Ohjelmoinnin harjoitustyö a.k.a. Javalabra
-% Tero Huomo, Joel Järvinen
-% 19.12.2014
+% Essi Salmenkivi, Hanna Kopperi, Antti Haapaniemi
+% 13.1.2015
 
 # Ohjaajat
 
 - Ohjaajat
-    - Tero Huomo -- **Arcane** -- tero.huomo at cs.helsinki.fi
-    - Joel Järvinen -- **puny** -- joel.jarvinen at cs.helsinki.fi
+    - Essi Salmenkivi -- **iorena** -- essi.salmenkivi at helsinki.fi
+    - Hanna Kopperi -- **JButton** -- hanna.kopperi at helsinki.fi
+    - Antti Haapaniemi -- **Pallero_** -- antti.haapaniemi at helsinki.fi
+ 
 - Yhteyttä sähköpostilla tai irkissä
-- Irkkikanava #joululabra @ IRCnet
-- Kurssisivu <http://javalabra.github.io/Javalabra2014-2>
+- Irkkikanava #javalabra2015 @ IRCnet
+- Kurssisivu <http://javalabra.github.io/Javalabra2015-3>
 
 # Mistä kyse?
 
@@ -75,7 +77,7 @@
 
 - Deadlinet löydät kurssin etusivulta.
     - Deadlinestä annetaan 0-2 pistettä kunkin deadlinen tehtävien mukaisesti
-    - Ensimmäinen deadline **jo tänään!**
+    - Ensimmäinen deadline **tällä viikolla!**
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
         - Ei sähköpostipalautuksia
     - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen perusteella
@@ -116,7 +118,7 @@
 
 - **Tervetuloa kurssille!**
 - Muistakaa -- ensimmäinen deadline tänään
-- Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Joululabra-2014>
+- Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Javalabra2015-3>
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tai pyytämään apua
 	 - On suositeltavaa tehdä ensimmäisen deadlinen tehtävät jo täällä.
