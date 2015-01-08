@@ -42,7 +42,7 @@ Pajat pidetään luokassa **B221**, ellei toisin ilmoiteta.
 
 | klo   | ma  | ti    | ke   | to       | pe    | 
 | ---   | --- | ---   | ---  | ---      | ---   | 
-| 12-14 | -   | Paja  | -    | -        | DL (12:59)    |  
+| 12-14 | -   | Paja  | -    | -        | DL (11:59)    |  
 | 14-16 | -   | -     | Paja | Paja     | -     |  
 
 
