@@ -15,8 +15,8 @@
 
 **Ohjaajat:**
 * Essi Salmenkivi (iorena)
-* Antti Haapaniemi 
-* Hanna Kopperi
+* Antti Haapaniemi (Pallero_)
+* Hanna Kopperi (JButton)
 
 Sähköpostit: etunimi.sukunimi@helsinki.fi
 
@@ -27,6 +27,9 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ### Uutisia
 
+* Paja-aikataulu päätetty.
+
+
 ### Palaute työstäsi
 
 * Saat palautetta projektisi edistymisestä labtoolin kautta [http://tktl-labtool.herokuapp.com/mypage](http://tktl-labtool.herokuapp.com/mypage)
@@ -34,15 +37,11 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ### Aikataulu
 
-!!!PÄIVITTÄMÄTTÄ!!!
-Pajaa tarjolla alla ilmoitettuina päivinä kello 12-14.
+Pajaa tarjolla alla ilmoitettuina aikoina.
 Pajat pidetään luokassa **B221**, ellei toisin ilmoiteta.
 
-| vko | ma  | ti  | ke  | to  | pe  | 
-| --- | --- | --- | --- | --- | --- | 
-| 51  |  -  |  -  |  -  |  -  | DL1 **Paja**|  
-| 52  | DL2 **Paja**| **Paja**|  -  |  -  |  -  |  
-| 1   | DL3 **Paja**| Katselmointi **Paja**|  -  |  -  | DL4 **Paja**|  
-| 2   | **Paja**| - |  DL5 **Paja**|  Katselmointi 2. **Demotilaisuus & Paja**| DL6 + palautus. **Paja**|
+| klo | ma  | ti  | ke  | to  | pe  | 
+| 12-14 | --- | PAJA | --- | --- | DL | 
+| 14-16  |  -  |  -  | PAJA | PAJA | --- |  
 
 
