@@ -11,7 +11,7 @@
  
 - Yhteyttä sähköpostilla tai irkissä
 - Irkkikanava #javalabra2015 @ IRCnet
-- Kurssisivu <http://javalabra.github.io/Javalabra2015-3>
+- Kurssisivu <http://github.com/javaLabra/Javalabra2015-3>
 
 # Mistä kyse?
 
@@ -118,7 +118,7 @@
 
 - **Tervetuloa kurssille!**
 - Muistakaa -- ensimmäinen deadline tänään
-- Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Javalabra2015-3>
+- Kaikki tarvittava löytyy kurssisivulta: <http://github.com/javaLabra/Javalabra2015-3>
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tai pyytämään apua
 	 - On suositeltavaa tehdä ensimmäisen deadlinen tehtävät jo täällä.
