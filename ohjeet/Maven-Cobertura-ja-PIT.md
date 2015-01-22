@@ -214,7 +214,7 @@ No mutations found. This probably means there is an issue with either the suppli
 
 * Se tarkoittaa, että pom.xml:n groupID ja projektin pakettien nimet eivät täsmää keskenään. Tai että konfiguroinnin parametrit osoittavat väärään paikkaan. Tai että testit eivät ole koodia vastaavissa paketeissa.
 
-* Jos et ole konfiguroinut pittiä, tarkista että ohjelmasi oletuspaketin nimi ole eri kuin pom.xml:ssä oleva groupID. Tässä isoilla kirjaimilla on väliä, eli jos paketin nimi on "ohha" ja pom.xml:ssä lukee `<groupId>OhHa</groupId>`, ei pit-raportin generointi tule onnistumaan. Jos ero löytyy, korjaa jommankumman nimi.
+* Jos et ole konfiguroinut pittiä, tarkista että ohjelmasi oletuspaketin nimi ei ole eri kuin pom.xml:ssä oleva groupID. Tässä isoilla kirjaimilla on väliä, eli jos paketin nimi on "ohha" ja pom.xml:ssä lukee `<groupId>OhHa</groupId>`, ei pit-raportin generointi tule onnistumaan. Jos ero löytyy, korjaa jommankumman nimi.
 
 * Jos olet konfiguroinut pittiä, tarkista ettet ole vahingossa lisännyt liian pitkää polkua.
 
