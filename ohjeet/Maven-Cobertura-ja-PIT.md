@@ -202,6 +202,8 @@ Tämän tyylisellä (vaihda include-tagien sisältö omaa ohjelmaasi vastaavaksi
 </plugin>
 ```
 
+Jos haluat testata kaikki pakkauksen sisällä olevien pakkauksien kaikki luokat, include tulee kirjoittaa muodossa: `<include>ristinolle/**/*.class</include>`.
+
 ### Virhetilanteet
 
 * Jos pittiä ajaessa tulee kasa punaista tekstiä, joka näyttää suunnilleen tältä:
