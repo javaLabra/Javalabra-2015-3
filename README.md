@@ -27,6 +27,8 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ### Uutisia
 
+* (11.2) [Pitin päivitysohjeet](ohjeet/Maven-Cobertura-ja-PIT.md#pitin-p%C3%A4ivitt%C3%A4minen) lisätty tiedostonkäsittely-luokkien testausongelmien vuoksi.
+
 * Paja-aikataulu päätetty.
 
 
