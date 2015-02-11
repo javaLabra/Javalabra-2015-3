@@ -172,6 +172,22 @@ Seuraavan tyylisellä (muuta param-kohdat omaa ohjelmaasi vastaaviksi):
 ```
 Eli jos haluat testata paketin joka NetBeanssissa on laivanupotus.logiikka, täytyy pom.xml:ään laittaa aivan suoraan `<param>laivanupotus.logiikka*</param>`.
 
+####Pitin päivittäminen
+
+Joillakin on ollut ongelmia tiedostonkäsittelijöiden/lukioiden testaamisessa. Mikäli pit-raportti näyttää luokalle 0%:n kattavuutta vaikka ei pitäisi, kannattaa päivittää pit-testit uusimpaan versioon.
+
+Pit-testit päivitetään vaihtamalla versionumero pom.xml:stä 1.1.4 ja ajamalla "clean and build".
+
+``` xml
+        <plugin>
+            <groupId>org.pitest</groupId>
+            <artifactId>pitest-maven</artifactId>
+            <version>1.1.4</version>
+        </plugin>
+```
+
+Mikäli pit-ongelmat eivät ratkea päivityksellä, ota yhteyttä ohjaajiin.
+
 ### Coberturan konfigurointi
 Samoin kuin Pitissä, voidaan myös coberturassa määrittää, mitkä luokat testataan. Tätäkin varten tarvitaan pom.xml:ään configuration-blokki. Coberturassa xml-syntaksi vaatii vielä instrumentationin, includesin ja tarkemmin tiedot mukaan otettavista luokista.
 
