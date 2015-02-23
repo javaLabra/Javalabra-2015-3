@@ -27,7 +27,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ### Uutisia
 
-* (22.2) Loppupalautuksen deadline perjantaina 29.2. klo 23:59!
+* (22.2) Loppupalautuksen deadline perjantaina 27.2. klo 23:59!
 
 * (11.2) [Pitin päivitysohjeet](ohjeet/Maven-Cobertura-ja-PIT.md#pitin-p%C3%A4ivitt%C3%A4minen) lisätty tiedostonkäsittely-luokkien testausongelmien vuoksi.
 
