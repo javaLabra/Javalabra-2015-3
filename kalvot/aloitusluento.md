@@ -84,7 +84,6 @@
     - Ohjaajat antavat palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa tulla pyytämään pajasta
 
 - Kurssin aikana tarjolla **ohjausta** eli pajaa
-    - Aikataulusta päätetään aloitusluennolla, valitettavasti laitoksen aukioloajoista johtuen ohjausta ei voida järjestää klo 16:00 jälkeen.
     - Luokassa **B221** (toisen kerroksen pajaluokka)
     - Vapaaehtoista
     - **Paras väylä saada apua ja palautetta ohjaajilta**
